@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+statannotations
+statsmodels
+nilearn
+scipy
