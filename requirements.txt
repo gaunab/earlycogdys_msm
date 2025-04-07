@@ -5,3 +5,4 @@ statannotations
 statsmodels
 nilearn
 scipy
+openpyxl
