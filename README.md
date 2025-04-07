@@ -7,9 +7,9 @@
  [](https://2i2c.mybinder.org/v2/gh/gaunab/earlycogdys_msm.git/HEAD?urlpath=%2Fdoc%2Ftree%2FStatistik.ipynb)
 
 2. Durch klicken auf das Ordnersymbol kann man den Dateimanager (Sidebar) einblenden
-   ![](images/btn_file_browse.png)
+![](images/btn_file_browser.png)
    
-   ![](images/file_browse.png)
+![](images/file_browser.png)
   
     In der Datei-Sidebar können Dateien hinzugefügt werden. Entweder per Drag'n'Drop oder mit dem Icon (Pfeil-nach-Oben). 
 
