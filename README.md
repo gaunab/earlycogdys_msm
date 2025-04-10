@@ -2,9 +2,9 @@
 
 ## Anleitung zum Arbeiten via mybinder
 
-1. Öffnen mit MyBinder: [![Binder](https://2i2c.mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/gaunab/earlycogdys_msm.git/HEAD?urlpath=%2Fdoc%2Ftree%2FStatistik.ipynb)
+1. Öffnen mit MyBinder: [![Binder](https://2i2c.mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/pakux/earlycogdys_msm.git/HEAD?urlpath=%2Fdoc%2Ftree%2FStatistik.ipynb)
  
- [](https://2i2c.mybinder.org/v2/gh/gaunab/earlycogdys_msm.git/HEAD?urlpath=%2Fdoc%2Ftree%2FStatistik.ipynb)
+ [](https://2i2c.mybinder.org/v2/gh/pakux/earlycogdys_msm.git/HEAD?urlpath=%2Fdoc%2Ftree%2FStatistik.ipynb)
 
 2. Durch klicken auf das Ordnersymbol kann man den Dateimanager (Sidebar) einblenden
 ![](images/btn_file_browser.png)
